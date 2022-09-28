@@ -336,6 +336,7 @@ a {
     #cap {
         right: -80%;
         top: 15%;
+        z-index: 9999999;
     }
 
     #circle {
